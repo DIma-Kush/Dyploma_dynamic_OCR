@@ -1,0 +1,16 @@
+{
+  "name": "main",
+  "displayName": "main",
+  "expo": {
+    "name": "Image Text Translator",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "28.0.0",
+    "ios": {
+      "bundleIdentifier": "at.anyline.imageTextTranslator"
+    },
+    "android": {
+      "package": "at.anyline.imageTextTranslator"
+    }
+  }
+}
